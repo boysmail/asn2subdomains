@@ -65,6 +65,7 @@ Reverse whois lookup using WhoisXML API key and ORG.
 
 ## Flow
 Here is the general flow of the tool along with the produced files:
+![diagram](https://github.com/user-attachments/assets/7295d40e-2e54-4b25-9bc7-84c930966bd7)
 
 ## Future
 - [ ] Add more tools
