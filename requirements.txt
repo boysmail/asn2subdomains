@@ -1,0 +1,3 @@
+pyasn
+requests
+rich

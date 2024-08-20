@@ -1,0 +1,14 @@
+[project]
+name = "asn2subdomains"
+version = "1.0.0"
+authors = [
+    {name = "boysmail"},
+]
+description = "Combining multiple Project Discovery's tools to make osint easier "
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pyasn",
+    "requests",
+    "rich"
+]
